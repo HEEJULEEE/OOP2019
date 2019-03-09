@@ -5,6 +5,7 @@ public class Conversion {
 		double pi=3.1415;
 		int WholeNumber=(int)pi;
 		
+		System.out.println("wholeNumber'A'"+"wholeNumber");
 	}
 
 }
